@@ -165,8 +165,7 @@
         fig.suptitle('Unknown author by year')
         plt.show()
 
- ![alt text][Gbar]
-   [Gbar]: https://github.com/mbihan/biof309_spring2018_project1/Name_Game__Gender_Prediction_using_Sound/img/yearBar.png "Year Bar Chart"
+ ![alt text](https://github.com/mbihan/biof309_spring2018_project1/Name_Game__Gender_Prediction_using_Sound/img/yearBar.png "Year Bar Chart")
 
 # Explore the distribution of female and male authors over time as grouped bar chart
   - Creating a new list, where 0.25 is added to each year
@@ -185,8 +184,8 @@
   
         plt.xlabel = 'Years'
    
-   ![alt text][Gbar]
-   [Gbar]: https://github.com/mbihan/biof309_spring2018_project1/Name_Game__Gender_Prediction_using_Sound/img/groupedBar.png "Male and Female Bar Chart"
+   ![alt text](https://github.com/mbihan/biof309_spring2018_project1/Name_Game__Gender_Prediction_using_Sound/img/groupedBar.png "Male and Female Bar Chart")
+   
 
 # Thanks
   - DataCamp

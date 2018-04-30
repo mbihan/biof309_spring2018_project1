@@ -1,7 +1,7 @@
 #target: [dependency]
 #<tab>recipe
 ipynb:
-	notedown --from markdown --to notebook NGGPUS.md > itr-gnr-pres.ipynb
+	notedown --from markdown --to notebook NGGPUS.md > NGGPUS.ipynb
 ppt:
 	pandoc -s NGGPUS.md --to pptx --toc --reference-doc=ppt/celestial.pptx -o NGGPUS.pptx
 pdf:

@@ -189,7 +189,7 @@
 
 # Thanks
   - DataCamp
-  - Prof Martin
+  - Prof Martin Skarzynski
 
 # Questions
 
